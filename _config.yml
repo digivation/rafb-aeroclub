@@ -1,4 +1,4 @@
-title:          Robins AFB Aero Club Documents and Information (Unofficial)
+title:          Robins AFB Aero Club
 description:    Unofficial collection of Robins AFB Aero Club information
 url:            http://localhost:4000
 owner:
@@ -8,17 +8,19 @@ owner:
   email:        matthew@digivation.net
 
 links:
-  - title: Test Link
-    url: /test
-  - title: Test Link 2
-    url: /test2
+ - title: Test New
+   url: /index.html
+ - title: RAFB Aero Club Offical Site
+   url: http://www.robinsfss.com/aeroclub.html
+   external: true
 
 timezone:       America/New_York
 future:         true
 pygments:       true
 markdown: rdiscount
 
-paginate: 10
+
+pagination: 20
 
 permalink: /:year/:month/:day/:title
 rdiscount extensions: [smart]
