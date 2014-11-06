@@ -4,7 +4,7 @@ permalink: /
 title: Robins AFB Aero Club
 tags: [flying, aeroclub, robins, air force, base, documents, poh, manual]
 image:
-  feature: abstract-5.jpg
+  feature: header.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
@@ -18,7 +18,7 @@ This is currently a work in progress - I will be adding more documents over time
 ### Aero Club Documents
 #### Forms
 * [Military Flight Plan](http://www.robinsfss.com/webimages/aeroclub/dd0175.pdf)
-* Covenant Not to Sue
+* [Covenant Not to Sue](/assets/documents/af_imt_1585_covenant.pdf)
 
 #### Orgianizational / Rules
 * [RAFB Aeroclub Standard Operating Procedures (SOP) (2010 Mar 01)](/assets/documents/rafbac_sop_2010_mar_mod1.pdf)
